@@ -21,5 +21,7 @@ MongoDB와 Studio3T를 사용하여 NoSQL 데이터를 처리할 수 있습니�
 
 
 [[⭐️ 모두를위한인공지능]] http://dscool.kr
+
 [Youtube] http://youtube.com/@aiforearth
+
 [네이버TV] http://tv.naver.com/dscoool
